@@ -1,0 +1,19 @@
+{
+  "name": "projet_perso_1",
+  "version": "1.0.0",
+  "description": "Premier projet pour manipuler les animations et transitions en css",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.sass:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agrael88/Projet_perso_1.git"
+  },
+  "author": "Brice DUGELAY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agrael88/Projet_perso_1/issues"
+  },
+  "homepage": "https://github.com/Agrael88/Projet_perso_1#readme"
+}
