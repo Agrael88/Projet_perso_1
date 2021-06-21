@@ -4,7 +4,7 @@
   "description": "Premier projet pour manipuler les animations et transitions en css",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch ./sass/main.sass:./css/style.css"
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,18 @@
+@import "utils/variables";
+@import "utils/mixin";
+
+body {
+    font-family: sans-serif;
+    background-color: $color-bg;
+    color: rgb(231, 231, 231);
+}
+
+header {
+    width: 100%;
+    height: 15vh;
+    @include flex-center;
+    font-size: 1.4em;
+    background-color: lighten($color: $color-bg, $amount: 5%);
+    border-radius: 20px;
+    box-shadow: 0 0 8px 5px black;
+}
